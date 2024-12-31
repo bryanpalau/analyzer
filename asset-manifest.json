@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/bryanpalau/analyzer/static/js/main.c45e9047.js",
-    "index.html": "/bryanpalau/analyzer/index.html",
-    "main.c45e9047.js.map": "/bryanpalau/analyzer/static/js/main.c45e9047.js.map"
+    "main.js": "/analyzer/static/js/main.c45e9047.js",
+    "index.html": "/analyzer/index.html",
+    "main.c45e9047.js.map": "/analyzer/static/js/main.c45e9047.js.map"
   },
   "entrypoints": [
     "static/js/main.c45e9047.js"
