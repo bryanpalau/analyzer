@@ -2,7 +2,7 @@
   "name": "level-analysis-dashboard",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/bryanpalau/analyzer",
+  "homepage": "https://bryanpalau.github.io/analyzer/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
