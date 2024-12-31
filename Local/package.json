@@ -1,0 +1,27 @@
+{
+  "name": "level-analysis-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.3.2",
+    "xlsx": "^0.18.5"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.2.0",
+    "terser-webpack-plugin": "^5.3.11"
+  }
+}
